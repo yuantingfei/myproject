@@ -1,0 +1,19 @@
+.header{
+    background-color: black;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+.sider{
+    position: fixed;
+    width: 240px;
+    left: 0px;
+    top: 60px;
+}
+.content{
+    position: fixed;
+    padding:10px 0 0 10px;
+    left: 240px;
+    top: 60px;
+}
